@@ -1,4 +1,4 @@
-const  CONFIG  = {ILOVEUOU 
+const    CONFIG    = { YÊUCHI 
                   
     introTitle : NHUNG
     introDesc: `Trái đất vốn lạ thường
